@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grommet, grommet, Box, Text, Heading, InfiniteScroll, Image, Carousel, Video } from 'grommet';
+import { Grommet, grommet, Box, Text, Heading, InfiniteScroll, Image, Carousel } from 'grommet';
 import { AppBar, Toolbar, IconButton, Typography, Paper, TextField, Button } from '@material-ui/core';
 import { Menu as MenuIcon } from '@material-ui/icons';
 
