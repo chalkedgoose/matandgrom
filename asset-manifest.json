@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/matandgrom/static/css/main.34de6062.chunk.css",
+    "main.js": "/matandgrom/static/js/main.16a30d4e.chunk.js",
+    "main.js.map": "/matandgrom/static/js/main.16a30d4e.chunk.js.map",
+    "runtime-main.js": "/matandgrom/static/js/runtime-main.d1baf793.js",
+    "runtime-main.js.map": "/matandgrom/static/js/runtime-main.d1baf793.js.map",
+    "static/js/2.39ddf36a.chunk.js": "/matandgrom/static/js/2.39ddf36a.chunk.js",
+    "static/js/2.39ddf36a.chunk.js.map": "/matandgrom/static/js/2.39ddf36a.chunk.js.map",
+    "index.html": "/matandgrom/index.html",
+    "precache-manifest.1fc9a76201477d9ee0522d75f83dad5f.js": "/matandgrom/precache-manifest.1fc9a76201477d9ee0522d75f83dad5f.js",
+    "service-worker.js": "/matandgrom/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/matandgrom/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1baf793.js",
+    "static/js/2.39ddf36a.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.16a30d4e.chunk.js"
+  ]
+}
